@@ -1,0 +1,4 @@
+/home/gedor/workspace/UpMan/platforms/android/app/src/main/assets/app/vendor.js
+/home/gedor/workspace/UpMan/platforms/android/app/src/main/assets/app/starter.js
+/home/gedor/workspace/UpMan/platforms/android/app/src/main/assets/app/bundle.js
+/home/gedor/workspace/UpMan/platforms/android/app/src/main/assets/app/tns-java-classes.js

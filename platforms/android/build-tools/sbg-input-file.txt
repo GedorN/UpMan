@@ -1,0 +1,1 @@
+/home/gedor/workspace/UpMan/platforms/android/app/src/main/assets/app

@@ -1,0 +1,18 @@
+{
+	"nativePlatformStatus": "3",
+	"appFilesHashes": {
+		"/home/gedor/workspace/UpMan/app/_app-common.scss": "68f91bf697e9b803daadf13814feae5dd6a14cc0",
+		"/home/gedor/workspace/UpMan/app/_app-variables.scss": "3e9f4e54e0c95508509ddd4b618f0eab38752fad",
+		"/home/gedor/workspace/UpMan/app/app.js": "6335efa81ecdacdba8e3d9a5f243a3e03780d8c9",
+		"/home/gedor/workspace/UpMan/app/app.scss": "f040f216168e1a30178efbaaf8b997124cc24118",
+		"/home/gedor/workspace/UpMan/app/components/Home.vue": "10b7f177c253d41587f21182e7dc6c7adf5ddd39",
+		"/home/gedor/workspace/UpMan/app/package.json": "42eb06a3acb1c46af586fe790ae9356e4883bea2",
+		"/home/gedor/workspace/UpMan/app/fonts/FontAwesome.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb"
+	},
+	"release": false,
+	"bundle": true,
+	"changesRequireBuild": false,
+	"time": "Tue Mar 26 2019 00:36:22 GMT-0300 (-03)",
+	"changesRequireBuildTime": "Mon Mar 25 2019 23:02:34 GMT-0300 (-03)",
+	"projectFileHash": "c8b52eef4ffb3405a16e92ca183c75fb45901cdf6c3372590410bdbd1b6ea718"
+}
